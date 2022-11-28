@@ -1,2 +1,3 @@
 # Firebase-Learning
-All Topics Covered (From Zero to Hero)
+All Topics covered with smoothly (From Zero to Hero)
+this repo is only ment to be used by students to learn and try a diff git commands 
