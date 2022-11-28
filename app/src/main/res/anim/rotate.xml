@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <rotate
+        android:fromDegrees="0"
+        android:toDegrees="3600"
+        android:duration= "12000"
+        />
+<!--        if you gave want 1 complete rotation gave .toDegrees - 360
+            if you want more no of revolution than gave it(toDegree) to multiply by the rotation of number,
+            and also set the duration time as you want
+
+            eg: 10 time rotate
+            you can use pivot{pivot X, pivot Y} points, if you want to rotate any point of the view
+            (like- corner, anywhere in the mid point )
+            by default: pivotX= "50% or 0.5"
+                        pivotY= "50 or 0.5"    that is center points
+ -->
+
+
+
+</set>

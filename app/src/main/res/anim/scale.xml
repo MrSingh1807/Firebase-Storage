@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<!--    if you want to increase size in X axis only { horizontal} : give fromXScale - toXScale
+         if you want to increase size in Y axis only { vertical} : give fromYScale - toYScale
+         • 1 value is the original size of the view
+
+         if you want to increase size in maintained ratio { both vertical or horizontal}
+         : ration in both axis
+
+          you can use pivot{pivot X, pivot Y} points, if you want to Scaling any point of the view
+            (like- corner, anywhere in the mid point )
+            by default: pivotX= "50% or 0.5"
+                        pivotY= "50 or 0.5"    that is center points
+-->
+    <scale
+        android:fromXScale="1"
+        android:toXScale="4"
+        android:fromYScale="1"
+        android:toYScale="4"
+        android:duration= "4000"
+        />
+</set>

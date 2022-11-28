@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<!--    all animations suggests some important attributes, not all (
+        duration,repeatMode etc)
+        Transparency values varied between 0 to 1.
+	where 0 = invisible or
+		1 = visible {by default}
+         -->
+    <alpha android:fromAlpha="0"
+        android:toAlpha="1"
+        android:duration="2000"
+        android:repeatCount="infinite"
+        />
+
+</set>
