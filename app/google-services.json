@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820888913242",
+    "project_id": "fir-connect-ddcb2",
+    "storage_bucket": "fir-connect-ddcb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820888913242:android:03c4b39fd11e5dbc9bdf63",
+        "android_client_info": {
+          "package_name": "com.example.firebaseconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820888913242-195mjlspcjhk5quck816f3uejmv3gsbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyAy57s6Sknb0KYhnZEBH0XMvj2b2JIB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820888913242-195mjlspcjhk5quck816f3uejmv3gsbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
